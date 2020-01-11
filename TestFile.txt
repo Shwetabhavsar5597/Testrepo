@@ -1,4 +1,9 @@
 Hello Git.
 Change 1
 cha nge 2
+
 in branch master 
+=======
+
+commit in branch idea
+in branch idea and written something
